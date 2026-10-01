@@ -4,7 +4,7 @@
 
 Este repositorio es la **demo pública**: la pantalla completa funcionando con **datos de ejemplo en memoria** (sin servidor ni base de datos), para poder recorrer el producto sin instalar nada.
 
-> 🔗 **Demo en vivo:** `https://TU-USUARIO.github.io/nivel-demo/` *(reemplaza TU-USUARIO por tu usuario de GitHub cuando actives GitHub Pages)*
+> 🔗 **Demo en vivo:** `https://pulise222.github.io/nivel-demo/`
 >
 > Para entrar escribe **cualquier usuario y contraseña**. Los datos se reinician al recargar la página.
 
