@@ -4,7 +4,7 @@
 
 Este repositorio es la **demo pública**: la pantalla completa funcionando con **datos de ejemplo en memoria** (sin servidor ni base de datos), para poder recorrer el producto sin instalar nada.
 
-> 🔗 **Demo en vivo:** `https://pulise222.github.io/nivel-demo/`
+> 🔗 **Demo en vivo:** `https://pulise222.github.io/nivel-gestion-negocio-demo/`
 >
 > Para entrar escribe **cualquier usuario y contraseña**. Los datos se reinician al recargar la página.
 
@@ -53,7 +53,7 @@ npm run build    # genera la carpeta dist/
 ```
 
 ## Publicarlo en GitHub Pages
-1. Sube este repositorio a GitHub con el nombre `nivel-demo` (rama `main`).
+1. Sube este repositorio a GitHub con el nombre `nivel-gestion-negocio-demo` (rama `main`).
 2. En *Settings → Pages → Build and deployment → Source* elige **GitHub Actions**.
 3. El flujo `.github/workflows/pages.yml` prueba, compila y publica la demo solo en cada cambio.
 
