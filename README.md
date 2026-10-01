@@ -6,7 +6,11 @@ Este repositorio es la **demo pública**: la pantalla completa funcionando con *
 
 > 🔗 **Demo en vivo:** `https://pulise222.github.io/nivel-gestion-negocio-demo/`
 >
-> Para entrar escribe **cualquier usuario y contraseña**. Los datos se reinician al recargar la página.
+> Para entrar pulsa **«¿Cómo entro?»** (arriba a la izquierda) y elige un perfil:
+> - **Dueño:** ve todo (panel, costos y ganancias, proveedores, configuración).
+> - **Vendedora:** vende y consulta, sin costos ni ganancias, y solo ve sus propias ventas.
+>
+> También puedes escribir el usuario `maria` (vendedora) o cualquier otro (dueño), con cualquier contraseña. Los datos se reinician al recargar la página.
 
 ## Capturas
 | Panel del dueño | Venta (caja) |
@@ -35,6 +39,7 @@ Este repositorio es la **demo pública**: la pantalla completa funcionando con *
 - **Proveedores:** qué pedirle a cada uno y **devolución de mercancía** (llegó de más, dañada, vencida).
 - **Panel:** ventas, ganancia, más vendidos y categorías con filtros de período y comparación.
 - **Configuración:** negocio, categorías, usuarios y roles, apariencia (color y patrón de fondo).
+- **Dos roles:** entra como **dueño** o como **vendedora** para ver cómo cambian las pantallas y los permisos.
 - Diseño **responsive** (celular, tablet y escritorio), **modo claro/oscuro**, avisos y diálogos propios (sin `alert` del navegador).
 
 ## Cómo está construido
